@@ -1,0 +1,14 @@
+.Main h1{
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+color: maroon;
+
+}
+p{
+
+    color: blue;
+}
+p.Large-text{
+font-size: 40px;
+}
+
